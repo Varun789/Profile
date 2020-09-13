@@ -1,2 +1,2 @@
 # Profile
-Django Mini Project learned from you tube channel Binary Beast. 
+Django Mini Project learned from you-tube channel Binary Beast. 
